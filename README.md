@@ -1,6 +1,4 @@
 # My-sql-basic
-
-
 ## Heading Two
 ### Heading Three
 #### Heading four
